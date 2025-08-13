@@ -7,8 +7,6 @@
 
 # 📊 GitHub Stats
 
-[This section is well-done. You can align the images to create a cleaner, more compact look.]
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hardik-Kumar0005&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/>
@@ -16,12 +14,11 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Kumar0005&theme=gotham&hide_border=false&layout=compact" alt="Top Languages" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Hardik-Kumar0005&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= Hardik-Kumar0005 &theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Hardik-Kumar0005&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username= Hardik-Kumar0005 &limit=5&theme=buefy&combine_all_yearly_contributions=true)
