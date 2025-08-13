@@ -61,3 +61,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Hardik-Kumar0005&limit=5&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&combine_all_yearly_contributions=true)
 
 ---
+## 🐍 Contribution Graph Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Hardik-Kumar0005/Hardik-Kumar0005/output/snake.gif)
+
+
+---
