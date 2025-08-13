@@ -46,22 +46,22 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hardik-Kumar0005&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Hardik-Kumar0005&theme=gotham&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Kumar0005&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Hardik-Kumar0005&bg_color=000000&title_color=00aaff&text_color=ffffff&icon_color=00aaff&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Hardik-Kumar0005&background=000000&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Kumar0005&bg_color=000000&title_color=00aaff&text_color=ffffff&icon_color=00aaff&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hardik-Kumar0005&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hardik-Kumar0005&theme=discord&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&column=6&row=1)
 
 ---
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Hardik-Kumar0005&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Hardik-Kumar0005&limit=5&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Hardik-Kumar0005&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
