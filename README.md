@@ -63,10 +63,10 @@
 
 ---
 
-#Projects showcase
+## 📺 Projects showcase
 
 
-[Egg Timer][https://github.com/user-attachments/assets/2e5fa30f-938a-44e2-b042-81a8a58c6b7e]
+https://github.com/user-attachments/assets/2e5fa30f-938a-44e2-b042-81a8a58c6b7e
 
 
 
