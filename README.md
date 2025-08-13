@@ -38,14 +38,24 @@
 ---
 
 # 📊 GitHub Stats:
-
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hardik-Kumar0005&theme=dark&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
-    <img src="https://streak-stats.demolab.com?user=Hardik-Kumar0005&theme=dark&background=000000&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff" height="200"/>
-  </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Kumar0005&theme=dark&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&layout=compact" height="200"/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Hardik-Kumar0005&theme=dark&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=Hardik-Kumar0005&theme=dark&background=000000&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff" height="200"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Kumar0005&theme=dark&bg_color=000000&title_color=00aaff&text_color=ffffff&hide_border=false&layout=compact" height="200"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -57,11 +67,9 @@
 
 ---
 
-## 🐍 Contribution Graph Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Hardik-Kumar0005/Hardik-Kumar0005/output/snake.gif)
+## 📈 My GitHub Contributions
+[![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hardik-Kumar0005&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=false)](https://github.com/Hardik-Kumar0005)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Hardik-Kumar0005&icon=7&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
