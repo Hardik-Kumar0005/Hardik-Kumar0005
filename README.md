@@ -27,6 +27,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,7 +62,12 @@
 </div>
 
 ---
-[][https://github.com/Hardik-Kumar0005/Hardik-Kumar0005/blob/7c98463154aa300d5efdba5a40d0d9ca967bfe64/projects/eggtimer.mp4]
+
+
+https://github.com/user-attachments/assets/2e5fa30f-938a-44e2-b042-81a8a58c6b7e
+
+
+
 ---
 
 ## 🏆 GitHub Trophies
