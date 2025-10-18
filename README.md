@@ -40,6 +40,9 @@
 
 ---
 
+[![An image of @hardikkumar0005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardikkumar0005)](https://holopin.io/@hardikkumar0005)
+
+---
 # 📊 GitHub Stats:
 <div align="center">
 
